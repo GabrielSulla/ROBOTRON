@@ -3,7 +3,7 @@
 <h2>OBJETIVO<h2> Esse projeto foi desenvolvido em aula com o professor Pedro Marins. O intuito dele foi simular um robo que recebe "pontos" aumentando ou diminuindo suas estatísticas.Ressalto que o projeto foi desenvolvido para fins didáticos.Esse projeto não é o original da aula pois fiz pequenas alterações, mudei a cor do robo e alguns valores das estatísticas quando atribuidas.
 
 <h2>HTML<h2>
-No arquivo HTML, foram definidos os elementos e a estrutura básica da página web. Isso inclui a criação de seções como cabeçalho, corpo e rodapé, usando as tags apropriadas, como <header>, <body> e <footer>. Além disso, foram adicionados outros elementos, como tags de título, parágrafos, imagens, links, formulários, e botões.
+No arquivo HTML, foram definidos os elementos e a estrutura básica da página web. Isso inclui a criação de seções como cabeçalho, corpo e rodapé, usando as tags apropriadas, como "header", "body" e "footer". Além disso, foram adicionados outros elementos, como tags de título, parágrafos, imagens, links, formulários, e botões.
 A estrutura HTML também pode incluir a divisão do conteúdo em seções usando tags como "div" e "section", o que ajuda a organizar e estilizar o layout da página.
 
 <h2>CSS<h2>
