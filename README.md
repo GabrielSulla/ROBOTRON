@@ -4,7 +4,7 @@
 
 <h2>HTML<h2>
 No arquivo HTML, foram definidos os elementos e a estrutura básica da página web. Isso inclui a criação de seções como cabeçalho, corpo e rodapé, usando as tags apropriadas, como <header>, <body> e <footer>. Além disso, foram adicionados outros elementos, como tags de título, parágrafos, imagens, links, formulários, e botões.
-A estrutura HTML também pode incluir a divisão do conteúdo em seções usando tags como <div> e <section>, o que ajuda a organizar e estilizar o layout da página.
+A estrutura HTML também pode incluir a divisão do conteúdo em seções usando tags como "div" e "section", o que ajuda a organizar e estilizar o layout da página.
 
 <h2>CSS<h2>
 No arquivo CSS, foram definidas regras de estilo para modificar a aparência e o layout dos elementos HTML. Isso envolve a seleção de elementos usando seletores, como nomes de classe, IDs ou tipos de elementos, e a aplicação de propriedades de estilo a esses elementos.
